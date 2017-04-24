@@ -1,5 +1,4 @@
 
-
 public class CommissionEmployee extends Object
 {
   private String firstName, lastName, socialSecurityNumber;
