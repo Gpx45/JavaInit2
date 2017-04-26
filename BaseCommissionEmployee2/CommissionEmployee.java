@@ -82,12 +82,12 @@ public class CommissionEmployee
   @Override // indicates that this method overrides a superclass method
   public String toString()
   {
-    return String.format("%s: %s %s\n%s: %s\n%s: %.2f\n%s: %.2f\n%s: %.2f",
+    return String.format("%s: %s %s\n%s: %s\n%s: %.2f\n%s: %.2f\n",
     "commission employee", firstName, lastName,
     "social security number", socialSecurityNumber,
     "gross sales", grossSales,
-    "commission rate", commissionRate,
-    "earnings", earnings());
+    "commission rate", commissionRate);
+
   }
 
 }

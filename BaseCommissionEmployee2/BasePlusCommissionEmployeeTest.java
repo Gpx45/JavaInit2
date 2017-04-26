@@ -18,7 +18,7 @@ public class BasePlusCommissionEmployeeTest
     System.out.printf( "%s %.2f\n", "Base salary is", employee.getBaseSalary());
     employee.setBaseSalary(1000);
 
-    System.out.printf("\n%s:\n\n%s\n",
+    System.out.printf("\n%s:\n%s\n",
     "Updated employee information obtained by toString",
     employee.toString());
 
