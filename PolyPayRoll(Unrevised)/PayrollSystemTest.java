@@ -48,8 +48,8 @@ public class PayrollSystemTest
 
         employee.setBaseSalary(1.10 * employee.getBaseSalary());
 
-        System.out.println("new base salary with 10% increase is: ");
-        System.out.println(employee.getBaseSalary());
+        System.out.printf(
+        "new based salary with 10% increase is: $%,.3f\n", employee.getBaseSalary());
       }
       System.out.printf(
       "earned $%,.2f\n", currentEmployee.earnings());
