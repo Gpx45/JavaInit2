@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Craps/Craps.iml" filepath="$PROJECT_DIR$/Craps/Craps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExceptionNoDivByZero/ExceptionNoDivByZero.iml" filepath="$PROJECT_DIR$/ExceptionNoDivByZero/ExceptionNoDivByZero.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hello/Hello.iml" filepath="$PROJECT_DIR$/Hello/Hello.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ticTacFile/account/account.iml" filepath="$PROJECT_DIR$/ticTacFile/account/account.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ticTacFile/dialogBox/dialogBox.iml" filepath="$PROJECT_DIR$/ticTacFile/dialogBox/dialogBox.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ticTacFile/Project 1 - TicTacToe/src/main/main.iml" filepath="$PROJECT_DIR$/ticTacFile/Project 1 - TicTacToe/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ticTacFile/Project 1 - TicTacToe/src/test/test.iml" filepath="$PROJECT_DIR$/ticTacFile/Project 1 - TicTacToe/src/test/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ticTac/ticTac.iml" filepath="$PROJECT_DIR$/ticTac/ticTac.iml" />
+    </modules>
+  </component>
+</project>
