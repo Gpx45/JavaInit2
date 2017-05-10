@@ -11,7 +11,8 @@ public class assertClass {
         System.out.print("Please Enter a number: ");
         int number = input.nextInt();
 
-        // typically assert is disabled so you must explicitly use it either in debugging or in command line.
+        // typically assert is disabled so you must explicitly
+        // use it either in debugging or in command line.
         assert(number <= 0 && number >= 10);
         System.out.printf("You've entered %d\n", number);
 
