@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0f05af91-a6d4-4421-ae89-671657ba0965" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assertClass.java" afterPath="$PROJECT_DIR$/src/assertClass.java" />
-    </list>
+    <list default="true" id="0f05af91-a6d4-4421-ae89-671657ba0965" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -414,7 +411,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1907" y="0" width="1945" height="2082" extended-state="0" />
+    <frame x="1907" y="0" width="1945" height="2082" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
