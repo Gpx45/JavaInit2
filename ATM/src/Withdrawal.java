@@ -1,23 +1,20 @@
+
+
 /**
  * Created by Victor on 5/13/2017.
  */
-public class Withdrawal
+public class Withdrawal extends Transaction
 {
-    // attributes
-    private int accountNumber;
-    private double amount;
-
-    // references to associated objects
-    private Screen screen;  //ATM's Screen
-    private Keypad keypad;  //ATM's Keypad
-    private CashDispenser cashDispenser;    // ATM's cash dispenser
-    private BankDatabase bankDatabase;  // account info database.
+    private  double amount; // amount to withdraw
+    private  Keypad keypad; // reference to keypad
+    private CashDispenser cashDispenser; // reference cash dispenser
 
     // no argument constructor
     public Withdrawal()
     {
     }
 
+    @Override
     public void execute()
     {
         
