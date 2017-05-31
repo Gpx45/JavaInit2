@@ -59,7 +59,7 @@ public class ATM
 
         // set userAuthenticated to boolean value returned by database
         userAuthenticated =
-                bankDatabase.authenticateUser(accountNumber, pin);
+                bankDatabase.authenticatedUser(accountNumber, pin);
 
         // check whether authentication succeded
         if (userAuthenticated)

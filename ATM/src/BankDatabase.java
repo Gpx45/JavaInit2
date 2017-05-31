@@ -8,7 +8,8 @@ public class BankDatabase
     //  no- argument BankDatabase constructor initializes accounts
     public BankDatabase()
     {
-        accounts[0] = new Account(12345, 5431,
+        accounts = new Account[2];
+        accounts[0] = new Account(12345, 54316,
                 1000.0, 1200.0);
         accounts[1] = new Account(98765, 56789,
                 200.0, 200.0);
